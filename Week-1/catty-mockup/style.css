@@ -1,0 +1,110 @@
+* {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+.wrapper-1 {
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+.left-nav {
+  background-color: lightgray;
+  display: flex;
+  flex-direction: column;
+  width: 50px;
+  max-width: 100px;
+}
+
+.la-paw:before {
+  display: flex;
+  justify-content: center;
+  padding: 42px 20px;
+}
+.banner {
+  padding: 40px;
+  display: flex;
+  background-color: grey;
+  width: 100%;
+  flex-direction: row;
+}
+
+.banner-content {
+  padding-left: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.banner-buttons {
+  display: flex;
+  justify-content: flex-start;
+  padding-bottom: 10px;
+}
+
+.banner-buttons .la-paw:before {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.banner-buttons .la-paw:first-child:before {
+  display: inline-block;
+  padding: 0px 10px 0 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  padding-right: 10px;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  height: 33px;
+}
+
+tr:nth-child(even) {
+  background-color: lightgray;
+}
+
+table .link p {
+  color: blue;
+  border: 1px solid black;
+  width: fit-content;
+  padding: 2px;
+}
+.song-list {
+  width: 100%;
+  padding-left: 10px;
+}
+
+.footer {
+  display: flex;
+  height: 100px;
+  background-color: lightblue;
+  justify-content: space-between;
+}
+.footer .la-paw:before {
+  display: flex;
+  justify-content: center;
+  padding: 36px 81px;
+}
+.footer-image img {
+  height: 80px;
+  padding: 10px;
+}
+
+.footer-content {
+  display: flex;
+}
+
+.footer-info {
+  padding: 10px;
+}
+.footer-info p {
+  padding-top: 10px;
+}
