@@ -32,7 +32,7 @@ function Form() {
 
   function handleSumbit(e) {
     if (url === "") testStyle.current.style.display = "block";
-    else testStyle.current.style.display = "none";
+    else testStyle.current.style.display = "none    ";
     e.preventDefault();
     setUrl(input);
   }
