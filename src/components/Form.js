@@ -78,7 +78,7 @@ function Form() {
       <div className="form-wrapper">
         <form onSubmit={handleSumbit}>
           <input
-            placeholder="Enter input"
+            placeholder="Enter the URL without https://"
             value={input}
             onChange={handleChange}
           />
@@ -86,7 +86,7 @@ function Form() {
           <button>Short input</button>
         </form>
         <p ref={testStyle} className="error" style={{ display: "none" }}>
-          Enter a URL first !!!
+          Enter a URL or remove "https:// from the URL" !!!
         </p>
       </div>
 
