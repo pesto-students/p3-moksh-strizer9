@@ -1,0 +1,270 @@
+{
+  "error": false,
+  "msg": "countries and capitals retrieved",
+  "data": [
+    {
+      "name": "Afghanistan",
+      "capital": "Kabul",
+      "iso2": "AF",
+      "iso3": "AFG"
+    },
+    {
+      "name": "Aland Islands",
+      "capital": "Mariehamn",
+      "iso2": "AX",
+      "iso3": "ALA"
+    },
+    {
+      "name": "Albania",
+      "capital": "Tirana",
+      "iso2": "AL",
+      "iso3": "ALB"
+    },
+    {
+      "name": "Algeria",
+      "capital": "Algiers",
+      "iso2": "DZ",
+      "iso3": "DZA"
+    },
+    {
+      "name": "American Samoa",
+      "capital": "Pago Pago",
+      "iso2": "AS",
+      "iso3": "ASM"
+    },
+    {
+      "name": "Andorra",
+      "capital": "Andorra la Vella",
+      "iso2": "AD",
+      "iso3": "AND"
+    },
+    {
+      "name": "Angola",
+      "capital": "Luanda",
+      "iso2": "AO",
+      "iso3": "AGO"
+    },
+    {
+      "name": "Anguilla",
+      "capital": "The Valley",
+      "iso2": "AI",
+      "iso3": "AIA"
+    },
+    {
+      "name": "Antarctica",
+      "capital": "",
+      "iso2": "AQ",
+      "iso3": "ATA"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "capital": "St. John's",
+      "iso2": "AG",
+      "iso3": "ATG"
+    },
+    {
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "iso2": "AR",
+      "iso3": "ARG"
+    },
+    {
+      "name": "Armenia",
+      "capital": "Yerevan",
+      "iso2": "AM",
+      "iso3": "ARM"
+    },
+    {
+      "name": "Aruba",
+      "capital": "Oranjestad",
+      "iso2": "AW",
+      "iso3": "ABW"
+    },
+    {
+      "name": "Australia",
+      "capital": "Canberra",
+      "iso2": "AU",
+      "iso3": "AUS"
+    },
+    {
+      "name": "Austria",
+      "capital": "Vienna",
+      "iso2": "AT",
+      "iso3": "AUT"
+    },
+    {
+      "name": "Azerbaijan",
+      "capital": "Baku",
+      "iso2": "AZ",
+      "iso3": "AZE"
+    },
+    {
+      "name": "Bahamas",
+      "capital": "Nassau",
+      "iso2": "BS",
+      "iso3": "BHS"
+    },
+    {
+      "name": "Bahrain",
+      "capital": "Manama",
+      "iso2": "BH",
+      "iso3": "BHR"
+    },
+    {
+      "name": "Bangladesh",
+      "capital": "Dhaka",
+      "iso2": "BD",
+      "iso3": "BGD"
+    },
+    {
+      "name": "Barbados",
+      "capital": "Bridgetown",
+      "iso2": "BB",
+      "iso3": "BRB"
+    },
+    {
+      "name": "Belarus",
+      "capital": "Minsk",
+      "iso2": "BY",
+      "iso3": "BLR"
+    },
+    {
+      "name": "Belgium",
+      "capital": "Brussels",
+      "iso2": "BE",
+      "iso3": "BEL"
+    },
+    {
+      "name": "Belize",
+      "capital": "Belmopan",
+      "iso2": "BZ",
+      "iso3": "BLZ"
+    },
+    {
+      "name": "Benin",
+      "capital": "Porto-Novo",
+      "iso2": "BJ",
+      "iso3": "BEN"
+    },
+    {
+      "name": "Bermuda",
+      "capital": "Hamilton",
+      "iso2": "BM",
+      "iso3": "BMU"
+    },
+    {
+      "name": "Bhutan",
+      "capital": "Thimphu",
+      "iso2": "BT",
+      "iso3": "BTN"
+    },
+    {
+      "name": "Bolivia",
+      "capital": "Sucre",
+      "iso2": "BO",
+      "iso3": "BOL"
+    },
+    {
+      "name": "Bonaire, Saint Eustatius and Saba ",
+      "capital": "",
+      "iso2": "BQ",
+      "iso3": "BES"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "iso2": "BA",
+      "iso3": "BIH"
+    },
+    {
+      "name": "Botswana",
+      "capital": "Gaborone",
+      "iso2": "BW",
+      "iso3": "BWA"
+    },
+    {
+      "name": "Bouvet Island",
+      "capital": "",
+      "iso2": "BV",
+      "iso3": "BVT"
+    },
+    {
+      "name": "Brazil",
+      "capital": "Brasilia",
+      "iso2": "BR",
+      "iso3": "BRA"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "capital": "Diego Garcia",
+      "iso2": "IO",
+      "iso3": "IOT"
+    },
+    {
+      "name": "British Virgin Islands",
+      "capital": "Road Town",
+      "iso2": "VG",
+      "iso3": "VGB"
+    },
+    {
+      "name": "Brunei",
+      "capital": "Bandar Seri Begawan",
+      "iso2": "BN",
+      "iso3": "BRN"
+    },
+    {
+      "name": "Bulgaria",
+      "capital": "Sofia",
+      "iso2": "BG",
+      "iso3": "BGR"
+    },
+    {
+      "name": "Burkina Faso",
+      "capital": "Ouagadougou",
+      "iso2": "BF",
+      "iso3": "BFA"
+    },
+    {
+      "name": "Burundi",
+      "capital": "Bujumbura",
+      "iso2": "BI",
+      "iso3": "BDI"
+    },
+    {
+      "name": "Cambodia",
+      "capital": "Phnom Penh",
+      "iso2": "KH",
+      "iso3": "KHM"
+    },
+    {
+      "name": "Cameroon",
+      "capital": "Yaounde",
+      "iso2": "CM",
+      "iso3": "CMR"
+    },
+    {
+      "name": "Canada",
+      "capital": "Ottawa",
+      "iso2": "CA",
+      "iso3": "CAN"
+    },
+    {
+      "name": "Cape Verde",
+      "capital": "Praia",
+      "iso2": "CV",
+      "iso3": "CPV"
+    },
+    {
+      "name": "Cayman Islands",
+      "capital": "George Town",
+      "iso2": "KY",
+      "iso3": "CYM"
+    },
+    {
+      "name": "Central African Republic",
+      "capital": "Bangui",
+      "iso2": "CF",
+      "iso3": "CAF"
+    }
+  ]
+}

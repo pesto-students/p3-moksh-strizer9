@@ -1,0 +1,20 @@
+.centre {
+  display: flex;
+  justify-content: space-around;
+}
+.card-wrapper {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+body {
+  background-image: url("../public/sky.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.btn {
+  margin-top: 5px;
+}
